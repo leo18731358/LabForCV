@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/dot.ico</file>
+        <file>image/clear.ico</file>
+    </qresource>
+</RCC>
